@@ -1,0 +1,13 @@
+# Changes here will be overwritten by Copier
+_commit: v0.13.0
+_src_path: gh:bhklab/bhklab-project-template
+author_email: bhklab.matthewboccalon@gmail.com
+author_full_name: Matthew Boccalon
+github_username: mattbocc
+has_additional_authors: false
+project_description: creating a test run of utilizing project template
+project_name: creating-workflow-testing
+project_slug: creating-workflow-testing
+publish_to_github: true
+python_version: '3.12'
+repo_location: mattbocc
